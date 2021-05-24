@@ -1,5 +1,5 @@
-Hi, I’m Aayush Chourasiya  return
-for(int i = 0; i>=0; i++){  return
-    Aayush.codingSkills.value++;  return
-  }  return
+Hi, I’m Aayush Chourasiya\
+for(int i = 0; i>=0; i++){\
+    Aayush.codingSkills.value++;\
+  }\
 Contact: aayushchourasiya@outlook.com
